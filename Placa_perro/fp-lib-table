@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DOIT_ESP32")(type "KiCad")(uri "C:/Users/48522933/Documents/Rejunte-Footprints-y-Simbolos-Kicad-main/esp32-devkit-v1/DOIT_ESP32.pretty")(options "")(descr ""))
+)
